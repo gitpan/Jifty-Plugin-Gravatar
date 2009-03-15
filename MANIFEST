@@ -10,6 +10,9 @@ inc/Module/Install/WriteAll.pm
 lib/Jifty/Plugin/Gravatar.pm
 lib/Jifty/Plugin/Gravatar/Dispatcher.pm
 lib/Jifty/Plugin/Gravatar/View.pm
+share/
+t/
+doc/
 Makefile.PL
 MANIFEST
 META.yml

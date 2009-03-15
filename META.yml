@@ -19,4 +19,4 @@ requires:
   Gravatar::URL: 0
   Jifty: 0.90220
   LWP::Simple: 0
-version: 0.01
+version: 0.02
